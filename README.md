@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lwazo
 - 👀 I’m interested in learning github it my fisrt time 
-- 🌱 I’m currently learning data scient
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me lwazoluhleknowledge12@gmail.com or twiter as knowledge or whatsapp SA 79 408 1128
 - 😄 Pronouns: ...
