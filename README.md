@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning github it my fisrt time 
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me lwazoluhleknowledge12@gmail.com or twiter as knowledge or whatsapp SA 79 408 1128
+- 📫 How to reach me lwazoluhleknowledge12@gmail.com or twiter as knowledge or whatsapp SA 79 408 112*
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
