@@ -5,7 +5,7 @@ I'm a passionate student currently studying **Data Science** and growing my skil
 ---
 
 ## 👨‍💻 What I'm working on
-- Personal projects like a **Contact Book Web App**
+- Personal projects like a **Customer Churn Prediction**
 - Improving my GitHub skills
 - Learning Python, JavaScript, and HTML/CSS
 - Exploring data analysis and visualization
