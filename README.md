@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Lwazoluhle Mhlongo (Lwazo)
 
-I’m an **IT Data Science student** passionate about solving problems with **coding, machine learning, and web development**.  
+I’m doing **IT in Data Science** passionate about solving problems with **coding, machine learning, and web development**.  
 Currently exploring new technologies, building projects, and growing my presence in the tech community. 🚀  
 
 ---
 
 ## 👨‍💻 What I’m Working On
-- Building a **Customer Churn Prediction** project  
+- Building a **Dynamic Customer Segmentation and Value Forecasting** project  
 - Improving my **GitHub workflow and open-source contributions**  
 - Learning **Python, JavaScript, and HTML/CSS**  
 - Exploring **data analysis, visualization, and ML models**  
