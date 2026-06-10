@@ -75,7 +75,7 @@ Passionate about transforming data into meaningful insights and building technol
 ## Connect With Me
 
 * Email: [lwazoluhleknowledge12@gmail.com](mailto:lwazoluhleknowledge12@gmail.com)
-* LinkedIn: [www.linkedin.com/in/lwazoluhle-knowledge-a8b507241](http://www.linkedin.com/in/lwazoluhle-knowledge-a8b507241)
+* LinkedIn: [https://www.linkedin.com/in/lwazoluhle-mhlongo/](https://www.linkedin.com/in/lwazoluhle-mhlongo/)
 
 ---
 
