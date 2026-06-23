@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lwazoluhle Mhlongo
 
-### Data Science Graduate | Aspiring Data Scientist & Machine Learning Engineer
+### Data Science Graduate | Junior Data Analyst & Machine Learning Engineer
 
 Passionate about transforming data into meaningful insights and building technology solutions that solve real-world problems. I enjoy working with data analytics, machine learning, software development, and web technologies while continuously expanding my technical skills through projects and practical experience.
 
